@@ -1,20 +1,21 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ *main - entry point
  *  
- * Return: Always 0 (Success)
- *
+ *Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	int c;
+
 	c = 0;
 
 	while
-		(c < 0 ) {
-			putchar(c + '0');
+		(c < 10) {
+			printf(c + '0');
+
 			c++;
 		}
 
