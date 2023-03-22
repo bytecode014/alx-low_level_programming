@@ -4,7 +4,7 @@
  *
  * print_sign - a function that prints the sign of a number
  *
- * 0n: parameter funtion
+ * @n: parameter funtion
  *
  * Return: 1, 0 and -1
  *
