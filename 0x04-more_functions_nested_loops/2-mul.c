@@ -3,8 +3,8 @@
 /**
  *
  *mul - checks for digits (through 0 and 9)
- *@a: Variable
- *@b: Variable 
+ *@a: a -  Variable
+ *@b: b -  Variable 
  *Return: Always 0
  */
 
